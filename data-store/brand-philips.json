@@ -1,0 +1,13 @@
+{
+  "brand": "philips",
+  "alias": "",
+  "country": "Netherlands",
+  "groups": [
+    "Bulb",
+    "electronics",
+    "electricals"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Philips"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "brand": "itc",
+  "alias": "",
+  "country": "india",
+  "groups": [
+    "Ciggarette",
+    "IT",
+    "FMCG",
+    "food",
+    "beverages"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/ITC_Limited"
+  ]
+}

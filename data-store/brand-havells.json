@@ -1,0 +1,23 @@
+{
+  "brand": "havells",
+  "alias": "",
+  "country": "india",
+  "groups": [
+    "kitchen appliances",
+    "lighting-for-domestic",
+    "commercial-and-industrial-applications",
+    "LED-lighting",
+    "fans",
+    "modular-switches",
+    "wiring-accessories",
+    "water-heaters",
+    "industrial-domestic-circuit-protection-switchgear",
+    "industrial-domestic-cables",
+    "wires",
+    "induction-motors",
+    "capacitors"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Havells"
+  ]
+}

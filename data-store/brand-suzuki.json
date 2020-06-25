@@ -1,0 +1,11 @@
+{
+  "brand": "suzuki",
+  "alias": "",
+  "country": "japan",
+  "groups": [
+    "automobile"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Suzuki"
+  ]
+}

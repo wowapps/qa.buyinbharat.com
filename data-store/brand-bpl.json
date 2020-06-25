@@ -1,0 +1,16 @@
+{
+  "brand": "bpl",
+  "alias": "",
+  "country": "india",
+  "groups": [
+    "Medical-equipment",
+    "televisions",
+    "refrigerators",
+    "washing-machines",
+    "microwaves",
+    "audio-equipment"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/BPL_Group"
+  ]
+}

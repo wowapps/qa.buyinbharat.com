@@ -1,0 +1,14 @@
+{
+  "brand": "wipro",
+  "alias": "",
+  "country": "india",
+  "groups": [
+    "technology",
+    "electronics",
+    "smarthome"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/List_of_public_listed_software_companies_of_India",
+    "https://en.wikipedia.org/wiki/Wipro"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "brand": "tesla",
+  "alias": "",
+  "country": "USA",
+  "groups": [
+    "Electric Cars"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Tesla",
+    "_Inc."
+  ]
+}

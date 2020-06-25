@@ -1,0 +1,11 @@
+{
+  "brand": "airtel",
+  "alias": "",
+  "country": "india",
+  "groups": [
+    "Telecommunications"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Bharti_Airtel"
+  ]
+}

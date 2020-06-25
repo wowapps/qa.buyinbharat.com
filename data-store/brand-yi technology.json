@@ -1,0 +1,13 @@
+{
+  "brand": "yi technology",
+  "alias": "",
+  "country": "china",
+  "groups": [
+    "computer",
+    "camera",
+    "security"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/YI_Technology"
+  ]
+}

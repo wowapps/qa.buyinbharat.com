@@ -1,0 +1,13 @@
+{
+  "brand": "mahindra",
+  "alias": "",
+  "country": "india",
+  "groups": [
+    "Automobiles",
+    "Energy",
+    "Farm-equipment"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Mahindra_%26_Mahindra"
+  ]
+}

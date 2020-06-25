@@ -1,0 +1,12 @@
+{
+  "brand": "google",
+  "alias": "",
+  "country": "usa",
+  "groups": [
+    "technology",
+    "mobile"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Google"
+  ]
+}

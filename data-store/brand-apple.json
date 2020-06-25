@@ -1,0 +1,12 @@
+{
+  "brand": "apple",
+  "alias": "",
+  "country": "usa",
+  "groups": [
+    "mobile",
+    "computer"
+  ],
+  "references": [
+    ""
+  ]
+}

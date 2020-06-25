@@ -1,0 +1,14 @@
+{
+  "brand": "panasonic",
+  "alias": "",
+  "country": "Japan",
+  "groups": [
+    "AC",
+    "TV",
+    "fridge",
+    "mobile"
+  ],
+  "references": [
+    ""
+  ]
+}

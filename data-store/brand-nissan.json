@@ -1,0 +1,12 @@
+{
+  "brand": "nissan",
+  "alias": "",
+  "country": "japan",
+  "groups": [
+    "automobile"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Nissan",
+    "https://en.wikipedia.org/wiki/Datsun"
+  ]
+}

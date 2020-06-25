@@ -1,0 +1,12 @@
+{
+  "brand": "infosys",
+  "alias": "",
+  "country": "india",
+  "groups": [
+    "software",
+    "technology"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Infosys"
+  ]
+}

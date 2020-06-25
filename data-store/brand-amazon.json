@@ -1,0 +1,12 @@
+{
+  "brand": "amazon",
+  "alias": "",
+  "country": "usa",
+  "groups": [
+    "ecommerce",
+    "cloudservices"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Amazon_(company)"
+  ]
+}

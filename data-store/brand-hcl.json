@@ -1,0 +1,12 @@
+{
+  "brand": "hcl",
+  "alias": "",
+  "country": "india",
+  "groups": [
+    "IT-consulting",
+    "services"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/HCL_Technologies"
+  ]
+}

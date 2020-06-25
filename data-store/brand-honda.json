@@ -1,0 +1,11 @@
+{
+  "brand": "honda",
+  "alias": "",
+  "country": "japan",
+  "groups": [
+    "automobile"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Honda"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "brand": "kingfisher",
+  "alias": "",
+  "country": "india",
+  "groups": [
+    "Airline",
+    "United Breweries"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Kingfisher_(beer)"
+  ]
+}

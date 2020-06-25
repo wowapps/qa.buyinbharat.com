@@ -1,0 +1,16 @@
+{
+  "brand": "asus",
+  "alias": "",
+  "country": "Taiwan",
+  "groups": [
+    "desktops",
+    "PC-peripherals",
+    "laptops",
+    "smartphones",
+    "tablets",
+    "hybrid-devices"
+  ],
+  "references": [
+    "https://gadgets.ndtv.com/mobiles/asus-phones"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "brand": "tecno",
+  "alias": "",
+  "country": "china",
+  "groups": [
+    "electronics",
+    "mobile",
+    "television"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Tecno_Mobile"
+  ]
+}

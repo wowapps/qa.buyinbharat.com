@@ -1,0 +1,17 @@
+{
+  "brand": "greenply",
+  "alias": "",
+  "country": "india",
+  "groups": [
+    "plywood",
+    "block-board",
+    "decorative-laminates",
+    "decorative-veneers",
+    "medium-density-fiberboards-(MDF)",
+    "Laminate-flooring",
+    "restroom-cubicles"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Greenply"
+  ]
+}

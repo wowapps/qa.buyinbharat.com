@@ -1,0 +1,12 @@
+{
+  "brand": "dabur",
+  "alias": "",
+  "country": "india",
+  "groups": [
+    "kitchen",
+    "food"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Dabur"
+  ]
+}

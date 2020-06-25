@@ -1,0 +1,11 @@
+{
+  "brand": "uber",
+  "alias": "",
+  "country": "usa",
+  "groups": [
+    "cab"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Uber"
+  ]
+}

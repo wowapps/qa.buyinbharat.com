@@ -1,0 +1,17 @@
+{
+  "brand": "godrej",
+  "alias": "",
+  "country": "india",
+  "groups": [
+    "real estate",
+    "consumer products",
+    "industrial-engineering",
+    "appliances",
+    "furniture",
+    "security",
+    "agricultural"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Godrej_Group"
+  ]
+}

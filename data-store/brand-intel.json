@@ -1,0 +1,11 @@
+{
+  "brand": "intel",
+  "alias": "",
+  "country": "usa",
+  "groups": [
+    "microprocessors"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Intel"
+  ]
+}
