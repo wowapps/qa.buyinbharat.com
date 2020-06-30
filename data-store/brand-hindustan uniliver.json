@@ -1,9 +1,10 @@
 {
   "brand": "hindustan uniliver",
-  "alias": "Unilever",
-  "country": "",
+  "alias": "",
+  "country": "india",
   "groups": [
-    ""
+    "FMCG",
+    "water-purifier"
   ],
   "references": [
     ""

@@ -3,13 +3,9 @@
   "alias": "",
   "country": "india",
   "groups": [
-    "real estate",
-    "consumer products",
-    "industrial-engineering",
+    "consumer-products",
     "appliances",
-    "furniture",
-    "security",
-    "agricultural"
+    "furniture"
   ],
   "references": [
     "https://en.wikipedia.org/wiki/Godrej_Group"
