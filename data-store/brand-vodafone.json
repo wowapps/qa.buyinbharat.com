@@ -1,0 +1,12 @@
+{
+  "brand": "vodafone",
+  "alias": "",
+  "country": "england",
+  "groups": [
+    "mobile",
+    "telecom"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Vodafone"
+  ]
+}

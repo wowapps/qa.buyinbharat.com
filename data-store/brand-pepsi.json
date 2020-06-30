@@ -1,0 +1,11 @@
+{
+  "brand": "pepsi",
+  "alias": "",
+  "country": "usa",
+  "groups": [
+    "Beverage"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Pepsi"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "brand": "tp-link",
+  "alias": "",
+  "country": "china",
+  "groups": [
+    "electronics",
+    "mobile",
+    "networking"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/TP-Link"
+  ]
+}

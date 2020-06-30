@@ -1,0 +1,12 @@
+{
+  "brand": "dell",
+  "alias": "",
+  "country": "USA",
+  "groups": [
+    "Computers",
+    "laptops"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Dell"
+  ]
+}

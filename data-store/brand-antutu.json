@@ -1,0 +1,11 @@
+{
+  "brand": "antutu",
+  "alias": "",
+  "country": "china",
+  "groups": [
+    "software"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/AnTuTu"
+  ]
+}

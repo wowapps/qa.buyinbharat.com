@@ -1,0 +1,12 @@
+{
+  "brand": "motorola",
+  "alias": "",
+  "country": "china",
+  "groups": [
+    "mobile",
+    "technology"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Motorola"
+  ]
+}

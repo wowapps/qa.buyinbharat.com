@@ -3,8 +3,8 @@
   "alias": "",
   "country": "usa",
   "groups": [
-    "e-commerce",
-    "cloudservice-provider"
+    "ecommerce",
+    "cloudservices"
   ],
   "references": [
     "https://en.wikipedia.org/wiki/Amazon_(company)"

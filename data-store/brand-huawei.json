@@ -1,0 +1,13 @@
+{
+  "brand": "huawei",
+  "alias": "",
+  "country": "china",
+  "groups": [
+    "electronics",
+    "mobile",
+    "networking"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Huawei"
+  ]
+}

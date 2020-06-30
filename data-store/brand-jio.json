@@ -1,0 +1,12 @@
+{
+  "brand": "jio",
+  "alias": "",
+  "country": "india",
+  "groups": [
+    "mobile",
+    "telecom"
+  ],
+  "references": [
+    ""
+  ]
+}

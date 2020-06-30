@@ -1,0 +1,13 @@
+{
+  "brand": "alibaba",
+  "alias": "",
+  "country": "china",
+  "groups": [
+    "cloud",
+    "ecommerce",
+    "technology"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Category:Chinese_brands"
+  ]
+}

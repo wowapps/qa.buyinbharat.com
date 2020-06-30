@@ -5,9 +5,11 @@
   "groups": [
     "Ciggarette",
     "IT",
-    "FMCG"
+    "FMCG",
+    "food",
+    "beverages"
   ],
   "references": [
-    ""
+    "https://en.wikipedia.org/wiki/ITC_Limited"
   ]
 }

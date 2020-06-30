@@ -1,0 +1,15 @@
+{
+  "brand": "sony",
+  "alias": "",
+  "country": "japan",
+  "groups": [
+    "laptop",
+    "mobile",
+    "electronics",
+    "television",
+    "movies"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Sony"
+  ]
+}

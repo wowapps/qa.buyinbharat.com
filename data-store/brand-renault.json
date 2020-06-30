@@ -1,0 +1,11 @@
+{
+  "brand": "renault",
+  "alias": "",
+  "country": "France",
+  "groups": [
+    "automobile"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Renault"
+  ]
+}

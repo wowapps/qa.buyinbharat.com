@@ -1,0 +1,12 @@
+{
+  "brand": "bisleri",
+  "alias": "",
+  "country": "india",
+  "groups": [
+    "water",
+    "food"
+  ],
+  "references": [
+    "https://en.wikipedia.org/wiki/Bisleri"
+  ]
+}

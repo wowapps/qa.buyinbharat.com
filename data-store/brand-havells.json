@@ -3,13 +3,21 @@
   "alias": "",
   "country": "india",
   "groups": [
+    "kitchen appliances",
+    "lighting-for-domestic",
+    "commercial-and-industrial-applications",
     "LED-lighting",
     "fans",
     "modular-switches",
-    "water-heaters"
+    "wiring-accessories",
+    "water-heaters",
+    "industrial-domestic-circuit-protection-switchgear",
+    "industrial-domestic-cables",
+    "wires",
+    "induction-motors",
+    "capacitors"
   ],
   "references": [
-    "https://en.wikipedia.org/wiki/Havells#:~:text=Establishment%20and%20early%20history",
-    "10%2C000%2C%20he%20started%20Havell's%20Industries."
+    "https://en.wikipedia.org/wiki/Havells"
   ]
 }
